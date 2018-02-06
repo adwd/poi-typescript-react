@@ -4,7 +4,8 @@
   "main": "src/index.tsx",
   "license": "MIT",
   "scripts": {
-    "poi": "poi"
+    "poi": "poi",
+    "build": "poi build"
   },
   "dependencies": {
     "react": "^16.2.0",
